@@ -1,8 +1,10 @@
 # FAKE-AP-mdk
 CREATE FAKE ACCES POINTS
 ## REQUIREMENTS
+***
 -Linux OS(kali,parrot....)
 -Network Adapter
+***
 ## HOW TO RUN THE SCRIPT
 ```bash
 sudo su

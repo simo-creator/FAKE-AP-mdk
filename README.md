@@ -8,8 +8,11 @@ CREATE FAKE ACCES POINTS
 ## HOW TO RUN THE SCRIPT
 ```bash
 sudo su
+apt install git -y
+apt install python3
 git clone https://github.com/simo-creator/FAKE-AP-mdk
 cd FAKE-AP-mdk
+pip3 install psutil
 python3 FAP-X9.py
 ```
 ## PICTURE
